@@ -1,0 +1,6 @@
+[gd_resource type="ParticlesMaterial" format=2]
+
+[resource]
+emission_shape = 1
+emission_sphere_radius = 1.0
+angular_velocity = -1.51325e-15
